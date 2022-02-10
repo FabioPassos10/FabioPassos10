@@ -4,7 +4,7 @@
 ### About me:
 
 
-  - Atualmente estudando React 😉
+  - Estudante de programação.
 
   
 
