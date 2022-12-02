@@ -6,7 +6,7 @@
 ### About me:
 
 
-  - Estudante de programação.
+  - 📚Estudante de programação.
 
   
 
