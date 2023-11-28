@@ -1,4 +1,4 @@
-### Wecome to my GitHub 👋
+### Welcome to my GitHub 👋
 
 ![PixelArt](https://user-images.githubusercontent.com/61357219/205320775-0123ac67-50b9-4b7f-9980-495cba7cf2a1.gif)
 
